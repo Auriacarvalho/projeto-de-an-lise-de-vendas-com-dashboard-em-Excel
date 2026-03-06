@@ -47,11 +47,9 @@ O dashboard permite analisar:
 
 ## Dashboard
 
-### Visão Geral
-![Dashboard 1](images/dashboard1.png)
-
 ### Análise de vendas
-![Dashboard 2](images/dashboard2.png)
+https://github.com/Auriacarvalho/projeto-de-an-lise-de-vendas-com-dashboard-em-Excel/blob/main/imagen%201%20dashbord.png.jpeg
+
 
 💡 Principais Insights
 
@@ -80,3 +78,4 @@ Visualização de dados para tomada de decisão
 👩‍💻 Autor
 
 Auria Carvalho
+
